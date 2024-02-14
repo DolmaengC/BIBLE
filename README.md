@@ -1,4 +1,7 @@
 # 웹뷰앱 - 블로그 앱
+조코딩님 유튜브 따라서 만들었습니다.
+https://www.youtube.com/watch?v=yjPl8Injlbw&t=1362s 
+
 ![app_screen](https://github.com/DolmaengC/WebViewApp_Blog/assets/107832431/cd2a090c-6cbf-4859-815c-55906c33d4fe)
 
 ---
