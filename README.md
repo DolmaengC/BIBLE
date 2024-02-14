@@ -1,5 +1,5 @@
-# 웹뷰앱 경험
-
+# 웹뷰앱 - 블로그 앱
+![app_screen](https://github.com/DolmaengC/WebViewApp_Blog/assets/107832431/cd2a090c-6cbf-4859-815c-55906c33d4fe)
 
 ---
 ## Error report
